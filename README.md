@@ -34,3 +34,5 @@ A Streamlit-based dashboard for analyzing YouTube channel performance metrics, p
 - Required Python packages:
   ```bash
   pip install streamlit pandas mysql-connector-python matplotlib
+
+![Image](https://github.com/user-attachments/assets/4334895e-fc2c-4bd9-99c4-df023daab5a3)
